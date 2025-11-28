@@ -1,0 +1,6 @@
+git init
+git add index.html
+git commit -m "first commit - globe"
+git branch -M main
+git remote add origin https://github.com/TUO_USERNAME/lets-imagine-globe.git
+git push -u origin main
